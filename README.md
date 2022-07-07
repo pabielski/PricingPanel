@@ -1,1 +1,2 @@
-# PricingPanel which I made responsive by using media querry
+# PricingPanel which I made responsive by using media queries
+
